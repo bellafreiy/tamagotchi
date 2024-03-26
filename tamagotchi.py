@@ -65,7 +65,7 @@ while (Bichinho.saude > 0) and (Bichinho.fome < 100):
     elif resposta == '7':
         print("Saude: ", Bichinho.RetornarSaude())
     else:
-        print('Escolha um número válido!')
+        print('Escolha um número que seja válido!')
 else:
     print("""\n------------------------------------------\n __         __
 /  \.-" "-./  \.
